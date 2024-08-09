@@ -4,4 +4,4 @@ Demonstrates a simple implementation of Next.js using the `next-usequerystate` l
 
 - Next.js framework
 - Query state management with `next-usequerystate`
-- Simple data fetching example (Server Side)
+- Simple data fetching example (Client Side)
